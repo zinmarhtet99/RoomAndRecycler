@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_size">30sp</dimen>
+    <dimen name="choice_txt_size">20sp</dimen>
+    <dimen name="description_size">20sp</dimen>
+    <dimen name="t_size">20sp</dimen>
+    <dimen name="location_size">10sp</dimen>
+    <dimen name="follow_size">20sp</dimen>
+    <dimen name="psize">20sp</dimen>
+    <dimen name="fsize">10sp</dimen>
+    <dimen name="csize">20sp</dimen>
+
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+</resources>

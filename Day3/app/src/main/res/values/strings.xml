@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day3</string>
+    <string name="edtone">First Number</string>
+    <string name="edttwo">Second Number</string>
+</resources>

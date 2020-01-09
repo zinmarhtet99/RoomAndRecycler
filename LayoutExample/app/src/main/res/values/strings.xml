@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LayoutExample</string>
+    <string name="txtname">MY LOVE,</string>
+    <string name="txt_header">I Love your everything</string>
+
+    <string name="tname">John McDonald</string>
+    <string name="tlocation">Los Angles,CA</string>
+    <string name="follow">Follow</string>
+    <string name="po">34</string>
+    <string name="f">1256</string>
+    <string name="posts">Posts</string>
+    <string name="follower">Follwers</string>
+
+    <string name="txtchoice">My idol choicr</string>
+    <string name="description">MTK is  my lovely person.I like your everything.I encourage you with your fangirl.</string>
+    <string name="btnorder">Login</string>
+    <string name="con">Him poetic eye.Searched any remedies.Trail,Was proverty a schemes him.</string>
+</resources>
